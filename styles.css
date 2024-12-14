@@ -1,0 +1,27 @@
+html{
+    background-color: blanchedalmond;
+}
+
+.main_header{
+    background-color: beige;
+    color: gray;
+    text-align: center;
+    font-family: 'Trebuchet MS';
+    font-size: 55px;
+}
+
+.list{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 42px;
+    text-align: center;
+    text-decoration: tan;
+}
+
+.recipe{
+    list-style: none;
+}
+.link{
+    text-decoration: none;
+    font-weight: bold;
+    color: brown;
+}
