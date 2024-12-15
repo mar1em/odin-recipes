@@ -8,6 +8,9 @@ html{
     text-align: center;
     font-family: 'Trebuchet MS';
     font-size: 55px;
+    width: 800px;
+    margin: 0 auto;
+    border: 7px black dotted;
 }
 
 .list{
@@ -19,16 +22,27 @@ html{
 
 .recipe{
     list-style: none;
+    margin: 82px;
 }
 
 .link{
     text-decoration: none;
     font-weight: bold;
     color: brown;
+    outline: 2px black solid;
+    padding: 18px 24px;
 }
 .head{
     background-color: bisque;
     color: grey;
     font-size: 49px;
     text-align: center;
+}
+img{
+    display: block;
+    border: 2px black solid;
+    margin: 0 auto;
+}
+h2{
+    margin-top: 42px;
 }
